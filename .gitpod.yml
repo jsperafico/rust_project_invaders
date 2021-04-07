@@ -4,3 +4,12 @@ image:
 tasks:
   - init: cargo build
     command: cargo run
+
+vscode:
+  extensions:
+    - matklad.rust-analyzer@0.2.529:c00cc8797790f0fa32c94a521e356e8b
+    - swellaby.vscode-rust-test-adapter@0.11.0:502aabf9520389d7bd8015da9427cab7
+    - belfz.search-crates-io@1.2.1:ec93d983ae7a19b46cad625e83ebefaf
+    - tamasfe.even-better-toml@0.12.0:90fa292578e165a9c61ff3e877be860c
+    - serayuzgur.crates@0.5.7:043b9aa01b1ea392ca1322a354d86188
+    - tabnine.tabnine-vscode@3.2.9:b11a9920d2774f1b5c9ce940915806e7
