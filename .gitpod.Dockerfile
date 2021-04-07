@@ -5,3 +5,5 @@ FROM gitpod/workspace-full
 # RUN brew install bastet
 #
 # More information: https://www.gitpod.io/docs/config-docker/
+
+run apt-get install libasound2-dev
