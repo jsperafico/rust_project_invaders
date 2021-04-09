@@ -6,4 +6,4 @@ FROM gitpod/workspace-full
 #
 # More information: https://www.gitpod.io/docs/config-docker/
 
-run apt-get install libasound2-dev
+run sudo apt-get install libasound2-dev
